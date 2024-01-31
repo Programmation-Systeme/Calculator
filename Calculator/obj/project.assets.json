@@ -8,19 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\w.mesfioui\\.nuget\\packages\\": {}
+    "C:\\Users\\33602\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\w.mesfioui\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\01-src\\cesi\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\w.mesfioui\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
-      "packagesPath": "C:\\Users\\w.mesfioui\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\w.mesfioui\\source\\repos\\Calculator\\Calculator\\obj\\",
+      "projectPath": "C:\\01-src\\cesi\\Calculator\\Calculator.csproj",
+      "packagesPath": "C:\\Users\\33602\\.nuget\\packages\\",
+      "outputPath": "C:\\01-src\\cesi\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\w.mesfioui\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\33602\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,8 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://pkgs.dev.azure.com/OptimumAutomotive/_packaging/Optimum/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
@@ -52,7 +56,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

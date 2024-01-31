@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EJ1uZI+te+e96FYw2YTyjITQFn2kdX0Bji2vPV8yp+FpKijh7mu5EHtKozzqIthE1KNDp8lufNimpaFkDzAIvw==",
+  "dgSpecHash": "GeBGp57HKDl4NPG2aY2PwSglJNgtBQWTqshiCVN41MTDucJ+FNRiNQyWVxCr5LverghZNQqhZo6DFQc/iBD2Zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\w.mesfioui\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\01-src\\cesi\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
