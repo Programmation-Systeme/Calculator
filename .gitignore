@@ -1,0 +1,32 @@
+# Fichiers de configuration Visual Studio
+.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.launchsettings
+*.vsconfig
+**/.vs/
+**/.vscode/
+*.sln.ide/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Fichiers de cache et de sauvegarde
+*~
+*.swp
+*.bak
+
+# Packages NuGet
+*.nupkg
+# Mise en cache des packages
+/packages/
+# Dossier de cache de NuGet
+*.psess
+
+# Fichiers de build
+/build/
+/bin/
+/obj/
